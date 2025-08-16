@@ -28,3 +28,29 @@ replay_pid*
 node_modules/
 build/
 .env
+
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Compiled class files ###
+*.class
+
+### Log files ###
+*.log
+
+### Maven / Gradle ###
+target/
+build/
+out/
+
+### OS files ###
+.DS_Store
+Thumbs.db
+
+### Others ###
+*.war
+*.ear
